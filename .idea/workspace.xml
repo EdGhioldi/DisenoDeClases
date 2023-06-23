@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a724c34-00d1-4e8e-9966-84b1f1895bbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Orden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Producto.java" afterDir="false" />
+    <list default="true" id="5a724c34-00d1-4e8e-9966-84b1f1895bbf" name="Changes" comment="Clases Completadas, Clase Test Finalizada">
+      <change afterPath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/test/VentasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Orden.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Orden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/gm/ventas/Producto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +43,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +58,19 @@
       <option name="presentableId" value="Default" />
       <updated>1686878215880</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Inicial. Creacion Clases.">
+      <created>1687482157672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687482157672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Inicial. Creacion Clases." />
+    <MESSAGE value="Clases Completadas, Clase Test Finalizada" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clases Completadas, Clase Test Finalizada" />
   </component>
 </project>
